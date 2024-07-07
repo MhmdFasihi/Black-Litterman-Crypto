@@ -9,7 +9,6 @@ This repository contains a Python implementation of the Black-Litterman model fo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -54,7 +53,3 @@ The Black-Litterman model is an advanced portfolio optimization framework that i
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any features, bug fixes, or enhancements.
-
-## License
-
-This project is licensed under the MIT License.
