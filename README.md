@@ -30,25 +30,10 @@ The Black-Litterman model is an advanced portfolio optimization framework that i
     cd black-litterman-crypto
     ```
 
-2. Install the required dependencies:
-
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
-1. Prepare your cryptocurrency price data in a CSV file.
-
-2. Modify the script to point to your data file if necessary.
-
-3. Run the script:
-
-    ```sh
-    python black_litterman_allocation_crypto_related_views.py
-    ```
-
-4. View the output and visualizations to analyze the optimal portfolio weights.
+1. View the output and visualizations to analyze the optimal portfolio weights.
 
 ## Contributing
 
